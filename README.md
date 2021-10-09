@@ -28,3 +28,8 @@ This plugin makes no changes to any of the entris or the database (hopefully).
 
 You can click the peek button (or press `F1`) to peek at the password.
 Also, while on the password box, press `F2` (or click the button) to use asterisks to show/hide the password.
+
+License
+-------
+
+MIT
